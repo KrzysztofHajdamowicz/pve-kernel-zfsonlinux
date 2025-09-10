@@ -1,3 +1,9 @@
+zfs-linux (2.3.4-pve1) trixie; urgency=medium
+
+  * update ZFS to new 2.3.4 upstream release.
+
+ -- Krzysztof Hajdamowicz <krzysztof@hajdamowicz.info>  Wed, 10 Sep 2025 21:58:32 +0200
+
 zfs-linux (2.3.3-pve1) trixie; urgency=medium
 
   * cherry-pick usr-merge fix for libzfs6linux to avoid edge case on upgrades.
